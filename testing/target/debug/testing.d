@@ -1,0 +1,1 @@
+/home/argus/Drives/2TBa/Projects/test/testing/target/debug/testing: /home/argus/Drives/2TBa/Projects/test/testing/src/main.rs /home/argus/Drives/2TBa/Projects/test/testing/src/scripts/func.rs /home/argus/Drives/2TBa/Projects/test/testing/src/scripts.rs
